@@ -7,7 +7,7 @@ The aim of this project was to create a SIC/XE assembly language compiler for C+
 ### file_parser.cc / file_parser.h 
 - Andrew Black
 
-### opcodetab.cc / opcobetab.h
+### opcodetab.cc / opcodetab.h
 - Darren  Barnachea
 - Kent Vo
 - Shayan Rastegarpour (Error Testing + Logic)
